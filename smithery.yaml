@@ -1,7 +1,8 @@
+id: weather-forecast-mcp
+
 startCommand:
   type: stdio
   configSchema:
-    # JSON Schema defining the configuration options for the MCP.
     type: object
     properties: {}
   commandFunction:
