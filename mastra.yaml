@@ -1,0 +1,9 @@
+inputs:
+  latitude:
+    source: mcp
+    mcp_id: weather-forecast-mcp
+    data_point: latitude
+  longitude:
+    source: mcp
+    mcp_id: weather-forecast-mcp
+    data_point: longitude
